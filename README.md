@@ -1,6 +1,6 @@
 # TriSense: Multimodal Emotion Recognition & Music Recommendation
 
-![TriSense Banner](assets/to/image_209189.png)
+![TriSense Banner](assets\trisense_banner.png")
 
 > **"Detect Emotions. Understand Faces. Find Balance."**
 
@@ -35,13 +35,13 @@ The final decision is made via a **Weighted Majority Voting** algorithm, ensurin
 
 | Landing Page | Live Analysis |
 | :---: | :---: |
-| ![Landing Page](assets\Home_page.png") | ![Live Scan](assets\live_scan.png") |
+| ![Landing Page](assets\Home_page.gif) | ![Live Scan](assets\live_scan.png") |
 | *Modern, responsive UI* | *Real-time inference (Face/Audio/Text)* |
 
 | Mood Result | Music Player |
 | :---: | :---: |
 | ![Results](assets\result.jpg") | ![Player](assets\player.png") |
-| *Joy Playlist Recommendation* | *Integrated Music Playback* |
+| *Joy Playlist Recommendation* | *Integrated Music Playback* | 
 
 ---
 
