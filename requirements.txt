@@ -1,0 +1,28 @@
+# --- Web Framework & API ---
+Flask==3.0.0
+Flask-Cors==4.0.0          # Required to allow React to communicate with Flask
+werkzeug==3.0.1            # WSGI utility library for Flask
+
+# --- Computer Vision (FER) ---
+opencv-python==4.8.0.76    # For accessing the webcam and processing video frames
+Pillow==10.0.0             # Image processing helper
+torch==2.1.0               # PyTorch Core
+torchvision==0.16.0        # PyTorch Vision (for AffectNet fine-tuning/inference)
+
+# --- Natural Language Processing (TER) ---
+transformers==4.35.0       # Hugging Face (for BERT/DistilRoBERTa)
+tokenizers==0.14.1         # Fast tokenization for Transformers
+
+# --- Audio Processing (SER) ---
+librosa==0.10.1            # Main library for audio analysis
+torchaudio==2.1.0          # PyTorch Audio (for Wav2Vec2)
+soundfile==0.12.1          # Required for reading/writing audio files
+numpy==1.26.0              # Matrix operations
+scipy==1.11.3              # Scientific computing (signal processing)
+
+# --- Utilities ---
+pandas==2.1.1              # Data manipulation (if you need to load CSVs)
+scikit-learn==1.3.2        # For evaluation metrics (Accuracy/F1 score)
+tqdm==4.66.1               # Progress bars for console output
+python-dotenv==1.0.0       # (Optional) For managing environment variables
+requests==2.31.0           # For making external HTTP requests if needed
