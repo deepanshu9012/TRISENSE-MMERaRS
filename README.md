@@ -81,5 +81,5 @@ TriSense was evaluated on the **MELD Dataset**, competing favorably with establi
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/trisense.git](https://github.com/yourusername/trisense.git)
+git clone [https://github.com/deepanshu9012/TRISENSE-MMERaRS.git](https://github.com/deepanshu9012/TRISENSE-MMERaRS.git)
 cd trisense
