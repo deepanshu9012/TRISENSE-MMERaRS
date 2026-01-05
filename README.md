@@ -40,7 +40,7 @@ The final decision is made via a **Weighted Majority Voting** algorithm, ensurin
 
 | Mood Result | Music Player |
 | :---: | :---: |
-| ![Results](https://github.com/deepanshu9012/TRISENSE-MMERaRS/blob/19ab0360cffece2de614c8f63568b1c5d2ae8cd2/assets/result.jpg) | ![Player](https://github.com/deepanshu9012/TRISENSE-MMERaRS/blob/19ab0360cffece2de614c8f63568b1c5d2ae8cd2/assets/player.png) |
+| ![Results](https://github.com/deepanshu9012/TRISENSE-MMERaRS/blob/19ab0360cffece2de614c8f63568b1c5d2ae8cd2/assets/result.jpg)(https://github.com/deepanshu9012/TRISENSE-MMERaRS/blob/2858aa117c235a0bf8b25d677f2dbd50f72a872f/assets/playlist.png) | ![Player](https://github.com/deepanshu9012/TRISENSE-MMERaRS/blob/19ab0360cffece2de614c8f63568b1c5d2ae8cd2/assets/player.png) |
 | *Joy Playlist Recommendation* | *Integrated Music Playback* | 
 
 ---
