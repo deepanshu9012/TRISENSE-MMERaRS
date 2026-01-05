@@ -35,7 +35,7 @@ The final decision is made via a **Weighted Majority Voting** algorithm, ensurin
 
 | Landing Page | Live Analysis |
 | :---: | :---: |
-| ![Landing Page](assets\Home_page.gif) | ![Live Scan](assets\live_scan.png") |
+| ![Landing Page](![image alt](https://github.com/deepanshu9012/TRISENSE-MMERaRS/blob/ac6de7028eda89f2c6a93de10463815c58d8f37c/assets/Home_page.png) | ![Live Scan](assets\live_scan.png") |
 | *Modern, responsive UI* | *Real-time inference (Face/Audio/Text)* |
 
 | Mood Result | Music Player |
